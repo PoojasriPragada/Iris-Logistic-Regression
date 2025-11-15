@@ -42,19 +42,19 @@ Split the dataset into:
 Created and trained a Logistic Regression model using:
 LogisticRegression(max_iter=200)
 
-### **5. Prediction
+### **5. Prediction**
 Predicted labels on the test data.
 
-### **6. Evaluation
+### **6. Evaluation**
 Calculated accuracy using:
 accuracy_score(y_test, y_pred)
 
-📊 Results
+ ## 📊 Results
 
 Test Accuracy: 1.0
 This high accuracy is expected due to the dataset’s simplicity and clear class separation.
 
-How to Run the Project
+### **How to Run the Project**
 1. Install dependencies:
 pip install -r requirements.txt
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 python iris_logistic.py
 
 
-📚 What I Learned
+### **📚 What I Learned**
 
 
 Logistic Regression for classification
